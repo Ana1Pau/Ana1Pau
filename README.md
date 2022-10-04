@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 
-**Ana1Pau/Ana1Pau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+ ✨ _special_ ✨ 
 
 - 🔭 I’m currently working on ...
       
@@ -18,6 +16,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 
 - 📫 How to reach me: ...
+- 
+- LinkedIn
+- Gmail
 - 
 - 😄 Pronouns: ...
 - 
