@@ -6,7 +6,7 @@
 ### <div align="center"></div>  
   
 
-- 🔭 I’m currently working on:  Patents in Virtual Reality
+- 🔭 I’m currently working on:  Patents in Virtual Reality and writing a comic 
   
   
 
