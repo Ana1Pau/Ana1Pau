@@ -17,7 +17,9 @@
   
 
 - ⚡ Fun fact: I like to use my imagination.  
-  
+
+
+  - I speak:english, spanish, chinese, french
 
 <br/>  
 
